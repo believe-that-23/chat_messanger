@@ -5,7 +5,7 @@ About this project - Basically it is a chat messaging app, It uses socket.io and
 
 If same person connects using two different hosts, he will be chatting with himself because of the same sender and recipient of the messages.
 
-This apps also keeps track of the time, when the message was sent.
+This app also keeps track of the time, when the message was sent.
 
 # npm start
 Runs the app in the development mode.
