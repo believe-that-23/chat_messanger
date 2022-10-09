@@ -1,7 +1,7 @@
 # chat_messanger
 This project was bootstrapped with [Create React App]
 
-About this project - Basically it is a chat messaging app, It uses express and node.js as the server. We make connections to the server using socket.io library. This also supports scrolling over the messages because of reac-scroll-to-bottom library. This project allows different users to connect to the same chat room and chat with each other.
+About this project - Basically it is a chat messaging app, It uses express and node.js for backend. We make connections to the server using socket.io library. This also supports scrolling over the messages because of react-scroll-to-bottom library. This project allows different users to connect to the same chat room and chat with each other.
 
 If same person connects using two different hosts, he will be chatting with himself because of the same sender and recipient of the messages.
 
